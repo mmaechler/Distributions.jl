@@ -167,7 +167,7 @@ List of Distributions
     - :ref:`poisson`
     - :ref:`skellam`
 
-* Continguous univariate distributions:
+* Continuous univariate distributions:
 
     - :ref:`arcsine`
     - :ref:`beta`
